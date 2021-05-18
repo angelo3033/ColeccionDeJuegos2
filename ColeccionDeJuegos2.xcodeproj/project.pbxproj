@@ -16,6 +16,7 @@
 		38A17F9D2654382900FE2972 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38A17F9B2654382900FE2972 /* LaunchScreen.storyboard */; };
 		38A17FA82654382A00FE2972 /* ColeccionDeJuegos2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38A17FA72654382A00FE2972 /* ColeccionDeJuegos2Tests.swift */; };
 		38A17FB32654382A00FE2972 /* ColeccionDeJuegos2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38A17FB22654382A00FE2972 /* ColeccionDeJuegos2UITests.swift */; };
+		38E1E46C26544586004F2DB3 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38E1E46B26544586004F2DB3 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		38A17FAE2654382A00FE2972 /* ColeccionDeJuegos2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ColeccionDeJuegos2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		38A17FB22654382A00FE2972 /* ColeccionDeJuegos2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColeccionDeJuegos2UITests.swift; sourceTree = "<group>"; };
 		38A17FB42654382A00FE2972 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		38E1E46B26544586004F2DB3 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				38A17F9B2654382900FE2972 /* LaunchScreen.storyboard */,
 				38A17F9E2654382900FE2972 /* Info.plist */,
 				38A17F962654382800FE2972 /* ColeccionDeJuegos2.xcdatamodeld */,
+				38E1E46B26544586004F2DB3 /* JuegosViewController.swift */,
 			);
 			path = ColeccionDeJuegos2;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				38E1E46C26544586004F2DB3 /* JuegosViewController.swift in Sources */,
 				38A17F922654382800FE2972 /* ViewController.swift in Sources */,
 				38A17F8E2654382800FE2972 /* AppDelegate.swift in Sources */,
 				38A17F982654382800FE2972 /* ColeccionDeJuegos2.xcdatamodeld in Sources */,
